@@ -15,7 +15,7 @@ ERC20 token built with Hardhat and OpenZeppelin Contracts v5.
 | Contract | https://sepolia.etherscan.io/address/0xc811E77A018Be6A2540976623159d961411ff519 |
 | Deployment transaction | https://sepolia.etherscan.io/tx/0xf828de272bbdfb0b83be45e3e1f2df03c218f9ac59a5c3c47d9c7bbe9b241c14 |
 
-![Block explorer screenshot](screenshot.png)
+![Block explorer screenshot](screenshot.jpg)
 
 ## Project structure
 
